@@ -1,11 +1,11 @@
  [
     {
-        "id" : "puma",
+        "id" : "cp",
         "name" : "C.P COMPANY",
         "image": "50da32c1517f0d1c8bae00cdb2f4164d_76657.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "convers_golf",
         "name" : "CONVERSE X GOLF WANG",
         "image": "19ae8d900d3be93fd5cc43475fa4fdcc_92901.jpeg"
     },
@@ -15,57 +15,57 @@
         "image": "4805917ded6defa0e190add5710d235f_82473.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "mizuno",
         "name" : "MIZUNO",
         "image": "020590d58c0e4126a31ac9f7ccffa035_91638 (1).jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "gx1000",
         "name" : "GX1000",
         "image": "793a07e61f8bf0274e4c4bdde8b5bc8a_79360.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "rassvet",
         "name" : "RASSVET",
         "image": "3fb5ed13afe8714a7e5d13ee506003dd_71605.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "obyssey",
         "name" : "ODYSSEY LTR ADVANCED",
         "image": "8f72750cafd61cebbdec2380da03c6f1_88379.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "helinox",
         "name" : "HELINOX",
         "image": "25459ba89d6a9dd6080a1c0c28d0f9f1_45518.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "nike_trainer",
         "name" : "NIKE AIR TRAINER 1",
         "image": "3faedb425326ea7e6f549cacb3f64a1f_70407.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "souvenir",
         "name" : "Souvenir official",
         "image": "94b1df9ae6835de2212b3b07af0c80dc_19686.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "cost_per_kilo",
         "name" : "COST PER KILO",
         "image": "43c2c1b7534e6b393736f182011e51eb_26907.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "aires",
         "name" : "ARIES",
         "image": "135007e7085979a7d5b41ce54c0e54d7_40661.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "nike_acg",
         "name" : "NIKE ACG",
         "image": "85b6f89b41cae26786ac72365fff771b_55439.jpeg"
     },
     {
-        "id" : "puma",
+        "id" : "palpal_skates",
         "name" : "PALPAL SKATES",
         "image": "afbd88601637938c455710d41e87e2d2_80883.jpeg"
     }
