@@ -1,18 +1,14 @@
 [
     {
         "id" : "puma",
-        "name" : "PUMA ARMY TRAINER",
-        "items" : [
-            {
-                "name" : "PUMA Army Trainer",
-                "price" : "129,000",
-                "image" : "1242674966_main_035.png"
-            },
-            {
-                "name" : "PUMA Army Trainer",
-                "price" : "129,000",
-                "image" : "1242674967_main_093"
-            }
-        ]
+        "name" : "PUMA Army Trainer",
+        "price" : "129,000",
+        "image" : "1242674966_main_035.png"
+    },
+    {
+        "id" : "puma",
+        "name" : "PUMA Army Trainer",
+        "price" : "129,000",
+        "image" : "1242674967_main_093.png"
     }
 ]
