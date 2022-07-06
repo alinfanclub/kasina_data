@@ -2,6 +2,7 @@
     {
         "id" : "puma_trainer",
         "brand" : "PUMA",
+        "page_h" : "PUMA ARMY TRAINER",
         "name" : "PUMA Army Trainer",
         "price" : "129,000",
         "image" : "1242674966_main_035.png"
@@ -9,6 +10,7 @@
     {
         "id" : "puma_trainer",
         "brand" : "PUMA",
+        "page_h" : "PUMA ARMY TRAINER",
         "name" : "PUMA Army Trainer",
         "price" : "129,000",
         "image" : "1242674967_main_093.png"
