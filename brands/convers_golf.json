@@ -1,0 +1,16 @@
+{
+    "id" : "convers_golf",
+    "brand_s" : "타일러 더 크리에이터가 골프왕의 최신 어패럴 컬렉션에서 영감을 받아 유니크한 올빼미 디테일과 우드랜드 카모 디자인을 믹스한 프리미엄 척 70을 탄생시켰습니다. 흰 올빼미와 겨울나무, 밝은 블루 컬러가 인상적인 이번 컬렉션에는 오직 타일러 더 크리에이터만이 선보일 수 있는 대담한 디자인이 적용되어 있습니다.",
+    "page_h" : "CONVERSE X GOLF WANG",
+    "categori" : false,
+    "items" : [
+        {
+            "id" : "convers_golf",
+            "brand" : "CONVERSE X GOLF WANG",
+            "page_h" : "CONVERSE X GOLF WANG",
+            "name" : "CHUCK 70 OX",
+            "price" : "115,000",
+            "image" : "1242674995_magnify_029.png"
+        }
+    ]
+}
