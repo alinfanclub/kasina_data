@@ -2,6 +2,7 @@
     "id" : "puma_trainer",
     "brand_s" : "",
     "page_h" : "PUMA TRAINER",
+    "categori" : false,
     "items" : [
         {
             "id" : "puma_trainer",
