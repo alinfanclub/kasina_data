@@ -1,5 +1,9 @@
 {
     "id" : "cp1",
+    "material" : "폴리아미드, 나일론 100%",
+    "color" : "DARK GREEN",
+    "size" : "L-3XL",
+    "made_form" : "C.P COMPANY",
     "image" : [
         {
             "image_slide" : "1242674584_magnify_025.png"
