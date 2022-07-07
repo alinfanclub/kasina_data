@@ -10,7 +10,8 @@
             "page_h" : "C.P COMPANY",
             "name" : "CHROME-R MEDIUM JACKET",
             "price" : "759,000",
-            "image" : "1242674584_main_054.png"
+            "image" : "1242674584_main_054.png",
+            "detail" : "1"
         },
         {
             "id" : "cp",
@@ -18,7 +19,8 @@
             "page_h" : "C.P COMPANY",
             "name" : "CHROME-R STAND COLLAR JACKET",
             "price" : "695,000",
-            "image" : "1242674583_main_031.png"
+            "image" : "1242674583_main_031.png",
+            "detail" : "2"
         },
         {
             "id" : "cp",
@@ -26,7 +28,8 @@
             "page_h" : "C.P COMPANY",
             "name" : "CHROME-R STAND COLLAR JACKET",
             "price" : "695,000",
-            "image" : "1242674582_main_071.png"
+            "image" : "1242674582_main_071.png",
+            "detail" : "3"
         },
         {
             "id" : "cp",
@@ -34,7 +37,8 @@
             "page_h" : "C.P COMPANY",
             "name" : "SHELL-R CONCEALABLE HOOD JACKET",
             "price" : "649,000",
-            "image" : "1242674581_main_082.png"
+            "image" : "1242674581_main_082.png",
+            "detail" : "4"
         },
         {
             "id" : "cp",
@@ -42,7 +46,8 @@
             "page_h" : "C.P COMPANY",
             "name" : "MICROREPS DIAMOND PEACH JACKET",
             "price" : "905,000",
-            "image" : "1242674580_main_04.png"
+            "image" : "1242674580_main_04.png",
+            "detail" : "5"
         },
         {
             "id" : "cp",
@@ -50,7 +55,8 @@
             "page_h" : "C.P COMPANY",
             "name" : "TAYLON L ZIPPED SHIRT",
             "price" : "719,000",
-            "image" : "1242674579_main_04.png"
+            "image" : "1242674579_main_04.png",
+            "detail" : "6"
         },
         {
             "id" : "cp",
@@ -58,7 +64,8 @@
             "page_h" : "C.P COMPANY",
             "name" : "TAYLON L ZIPPED SHIRT",
             "price" : "719,000",
-            "image" : "1242674578_main_026.png"
+            "image" : "1242674578_main_026.png",
+            "detail" : "7"
         },
         {
             "id" : "cp",
@@ -74,7 +81,8 @@
             "page_h" : "C.P COMPANY",
             "name" : "CR-L HOODED OVER SHIRT",
             "price" : "615,000",
-            "image" : "1242674576_main_033.png"
+            "image" : "1242674576_main_033.png",
+            "detail" : "8"
         }
         ]
  }
