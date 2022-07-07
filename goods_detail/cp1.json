@@ -1,6 +1,17 @@
 {
     "id" : "cp1",
     "image" : [
+        {
+            "image_slide" : "1242674584_magnify_025.png"
+        },
+        {
+            "image_slide" : "1242674584_magnify_168.png"
+        },
+        {
+            "image_slide" : "1242674584_magnify_217.png"
+        }
+    ],
+    "realated_image" : [
 
     ]
 }
