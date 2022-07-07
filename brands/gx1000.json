@@ -1,0 +1,98 @@
+{
+    "id" : "gx1000",
+    "brand_s" : "스케이트 필름 제작자 라이언 거셀이 만든 GX1000은 샌프란시스코에서 시작되어, 반사회적 반권위적인 스트릿 스케이팅 문화를 그래픽 아트워크에 담아내 새로운 영역으로 이끌어내는 브랜드입니다.",
+    "page_h" : "GX1000",
+    "categori" : false,
+    "items" : [
+        {
+            "id" : "gx1000",
+            "brand" : "GX1000",
+            "page_h" : "GX1000",
+            "name" : "ZOMBIE TEE",
+            "price" : "49,000",
+            "sale_price" : "",
+            "image" : "1242674754_main_040.png",
+            "sale" : false
+        },
+        {
+            "id" : "gx1000",
+            "brand" : "GX1000",
+            "page_h" : "GX1000",
+            "name" : "ZOMBIE TEE",
+            "price" : "49,000",
+            "sale_price" : "",
+            "image" : "1242674753_main_0100.png",
+            "sale" : false
+        },
+        {
+            "id" : "gx1000",
+            "brand" : "GX1000",
+            "page_h" : "GX1000",
+            "name" : "THE VISION TEE",
+            "price" : "49,000",
+            "sale_price" : "",
+            "image" : "1242674752_main_027.png",
+            "sale" : false
+        },
+        {
+            "id" : "gx1000",
+            "brand" : "GX1000",
+            "page_h" : "GX1000",
+            "name" : "THE VISION TEE",
+            "price" : "49,000",
+            "sale_price" : "",
+            "image" : "1242674751_main_071.png",
+            "sale" : false
+        },
+        {
+            "id" : "gx1000",
+            "brand" : "GX1000",
+            "page_h" : "GX1000",
+            "name" : "BUCK TEE",
+            "price" : "49,000",
+            "sale_price" : "",
+            "image" : "1242674731_main_029.png",
+            "sale" : false
+        },
+        {
+            "id" : "gx1000",
+            "brand" : "GX1000",
+            "page_h" : "GX1000",
+            "name" : "INFERNO TEE",
+            "price" : "49,000",
+            "sale_price" : "",
+            "image" : "1242674730_main_016.png",
+            "sale" : false
+        },
+        {
+        "id" : "gx1000",
+        "brand" : "GX1000",
+        "page_h" : "GX1000",
+        "name" : "OG TRIP TEE",
+        "price" : "59,000",
+        "sale_price" : "41,300",
+        "image" : "1242669580_main_010.png",
+        "sale" : true
+    },
+    {
+        "id" : "gx1000",
+        "brand" : "GX1000",
+        "page_h" : "GX1000",
+        "name" : "ALL THE TIME TEE",
+        "price" : "59,000",
+        "sale_price" : "41,300",
+        "image" : "1242669579_main_077.png",
+        "sale" : true
+    },
+    {
+        "id" : "gx1000",
+        "brand" : "GX1000",
+        "page_h" : "GX1000",
+        "name" : "OG LOGO HOODIE",
+        "price" : "168,000",
+        "sale_price" : "100,800",
+        "image" : "1242668267_main_044.png",
+        "sale" : true
+    }
+    ]
+}
