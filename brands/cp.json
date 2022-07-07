@@ -11,7 +11,7 @@
             "name" : "CHROME-R MEDIUM JACKET",
             "price" : "759,000",
             "image" : "1242674584_main_054.png",
-            "detail" : "1"
+            "detail" : "cp1"
         },
         {
             "id" : "cp",
@@ -20,7 +20,7 @@
             "name" : "CHROME-R STAND COLLAR JACKET",
             "price" : "695,000",
             "image" : "1242674583_main_031.png",
-            "detail" : "2"
+            "detail" : "cp2"
         },
         {
             "id" : "cp",
@@ -29,7 +29,7 @@
             "name" : "CHROME-R STAND COLLAR JACKET",
             "price" : "695,000",
             "image" : "1242674582_main_071.png",
-            "detail" : "3"
+            "detail" : "cp3"
         },
         {
             "id" : "cp",
@@ -38,7 +38,7 @@
             "name" : "SHELL-R CONCEALABLE HOOD JACKET",
             "price" : "649,000",
             "image" : "1242674581_main_082.png",
-            "detail" : "4"
+            "detail" : "cp4"
         },
         {
             "id" : "cp",
@@ -47,7 +47,7 @@
             "name" : "MICROREPS DIAMOND PEACH JACKET",
             "price" : "905,000",
             "image" : "1242674580_main_04.png",
-            "detail" : "5"
+            "detail" : "cp5"
         },
         {
             "id" : "cp",
@@ -56,7 +56,7 @@
             "name" : "TAYLON L ZIPPED SHIRT",
             "price" : "719,000",
             "image" : "1242674579_main_04.png",
-            "detail" : "6"
+            "detail" : "cp6"
         },
         {
             "id" : "cp",
@@ -65,7 +65,7 @@
             "name" : "TAYLON L ZIPPED SHIRT",
             "price" : "719,000",
             "image" : "1242674578_main_026.png",
-            "detail" : "7"
+            "detail" : "cp7"
         },
         {
             "id" : "cp",
@@ -82,7 +82,7 @@
             "name" : "CR-L HOODED OVER SHIRT",
             "price" : "615,000",
             "image" : "1242674576_main_033.png",
-            "detail" : "8"
+            "detail" : "cp8"
         }
         ]
  }
