@@ -4,7 +4,12 @@
     "color" : "Opal Gray / Heather",
     "size" : "260-280",
     "made_form" : " MIZUNO",
-    "made_in" : "베트남",
+    "made_in" : [
+        {
+            "con" : "베트남",
+            "con_info" : true
+        }
+    ],
     "image" : [
         {
             "image_slide" : "1242674959_magnify_026.png"
