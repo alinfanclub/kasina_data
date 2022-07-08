@@ -10,7 +10,8 @@
         "page_h" : "MIZUNO",
         "name" : "WAVE RIDER 10",
         "price" : "149,000",
-        "image" : "1242674959_main_017.png"
+        "image" : "1242674959_main_017.png",
+        "detail" : "mizuno1"
     },
     {
         "id" : "mizuno",
@@ -18,7 +19,8 @@
         "page_h" : "MIZUNO",
         "name" : "WAVE Prophecy LS",
         "price" : "249,000",
-        "image" : "1242674958_main_010.png"
+        "image" : "1242674958_main_010.png",
+        "detail" : "mizuno2"
     },
     {
         "id" : "mizuno",
@@ -26,7 +28,8 @@
         "page_h" : "MIZUNO",
         "name" : "WAVE MUJIN TL",
         "price" : "179,000",
-        "image" : "1242674957_main_036.png"
+        "image" : "1242674957_main_036.png",
+        "detail" : "mizuno3"
     },
     {
         "id" : "mizuno",
@@ -34,7 +37,8 @@
         "page_h" : "MIZUNO",
         "name" : "WAVE PROPHECY LS",
         "price" : "249,000",
-        "image" : "1242674615_main_097.png"
+        "image" : "1242674615_main_097.png",
+        "detail" : "mizuno4"
     }
     ]
 }
