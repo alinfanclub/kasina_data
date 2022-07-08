@@ -1,0 +1,30 @@
+{
+    "id" : "cp2",
+    "material" : "폴리아미드, 나일론 100%",
+    "color" : " D GREEN",
+    "size" : "L-3XL",
+    "made_form" : "C.P COMPANY",
+    "image" : [
+        {
+            "image_slide" : "1242674584_magnify_025.png"
+        },
+        {
+            "image_slide" : "1242674584_magnify_168.png"
+        },
+        {
+            "image_slide" : "1242674584_magnify_217.png"
+        }
+    ],
+    "realated_image" : [
+        {
+            "id" : "cp10",
+            "name" : "C.P COMPANY",
+            "image" : "1242669160_main_086.jpeg"
+        },
+        {
+            "id" : "cp11",
+            "name" : "C.P COMPANY",
+            "image" : "1242669167_main_026.jpeg"
+        }
+    ]
+}
